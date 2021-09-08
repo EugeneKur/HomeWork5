@@ -30,10 +30,7 @@ public class Employee {
 
     }
 
-//    public String toString() {
-//        return String.format(" Surname: %s \n Name: %s \n Patronymic: %s \n Postion: %s \n Email: %s \n Phone: %s \n Salary: %s \n Age: %s \n",
-//                this.surname, this.name, this.patronymic, this.position, this.email, this.phone, this.salary, this.age);
-//    }
+
 
 
 
